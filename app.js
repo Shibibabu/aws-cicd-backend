@@ -8,7 +8,7 @@ app.get('/',(req,res)=>{
 })
 app.get('/hi',(req,res)=>{
     res.json({
-        message:'Hii there!!!'
+        message:'I love  youuu!!!'
     })
 })
 app.listen(3002)
